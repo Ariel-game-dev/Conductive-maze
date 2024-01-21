@@ -85,7 +85,8 @@
 
 * משחק 1: R.E.E.L 
 https://store.steampowered.com/app/1293700/REEL/
-![R E E L gameplay](https://github.com/Ariel-game-dev/Conductive-maze/assets/33223417/ac596fea-bd04-4617-b3cf-b3cff9282b2b)
+![R E E L gameplay](https://github.com/Ariel-game-dev/Conductive-maze/assets/33223417/ff4448da-0ac9-48db-b81a-43fbcd8164c5)
+
 
 * הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
 
